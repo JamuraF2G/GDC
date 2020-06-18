@@ -98,7 +98,7 @@ system("$cmd$s");
 
 system("sudo chmod +x *; clear");
 
-system("sudo chown ran:ran *");
+#system("sudo chown ran:ran *");
 
 #Now let's start capturing log files#
 
