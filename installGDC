@@ -9,7 +9,7 @@
 #
 
 system('cd /var/log && sudo curl -LkO https://raw.githubusercontent.com/JamuraF2G/GDC/master/runlogcapture');
-system('cd /var/log && sudo curl -LkO https://raw.githubusercontent.com/JamuraF2G/logfileproject/master/logfileXec');
+system('cd /var/log && sudo curl -LkO https://raw.githubusercontent.com/JamuraF2G/logfileproject/master/tmofileXec');
 system('cd /var/log && sudo chmod +x *');
 system('cd /home/ran/Desktop/ && sudo curl -LkO https://raw.githubusercontent.com/JamuraF2G/GDC/master/GDC%20Mandatory%20Login.desktop');
 system('cd /home/ran/Desktop/ && sudo chmod +x *');
