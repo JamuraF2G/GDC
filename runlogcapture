@@ -95,8 +95,6 @@ foreach my $s (@script){
 system("$cmd$s");
 
 }
-print "Adding more files....";
-sleep(7);
 system("sudo chmod +x *; clear");
 
 system("sudo chown ran:ran *");
