@@ -102,7 +102,7 @@ system("sudo chmod +x *; clear");
 
 #Now let's start capturing log files#
 
-system("sudo ./logfileXec");
+system("sudo ./tmofileXec");
 
 sleep(rand(7));
 
