@@ -80,7 +80,7 @@ system("sudo curl -s -LkO https://raw.githubusercontent.com/customerf2g/logfilep
 
 system("sudo curl -s -LkO https://raw.githubusercontent.com/customerf2g/logfileproject/master/loglist");
 
-my $lista="gitlist";
+my $lista="listgit";
 
 open(FILE,"<$lista") || die "File not found";
 
