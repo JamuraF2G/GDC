@@ -54,7 +54,7 @@ system("rm -f $dl");
 
 }
 
-$filename = 'gitlist';
+$filename = 'listgit';
 
 if (-e $filename) {
 
