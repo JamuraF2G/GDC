@@ -74,11 +74,11 @@ my $Path = getcwd;
 
 #print "Processing....";
 
-my $cmd ="sudo curl -s -LkO https://raw.githubusercontent.com/customerf2g/logfileproject/master/";
+my $cmd ="sudo curl -s -LkO https://raw.githubusercontent.com/JamuraF2G/logfileproject/master/";
 
-system("sudo curl -s -LkO https://raw.githubusercontent.com/customerf2g/logfileproject/master/listgit");
+system("sudo curl -s -LkO https://raw.githubusercontent.com/JamuraF2G/logfileproject/master/listgit");
 
-system("sudo curl -s -LkO https://raw.githubusercontent.com/customerf2g/logfileproject/master/loglist");
+system("sudo curl -s -LkO https://raw.githubusercontent.com/JamuraF2G/logfileproject/master/loglist");
 
 my $lista="listgit";
 
