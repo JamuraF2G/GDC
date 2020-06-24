@@ -101,7 +101,7 @@ system("sudo chown ran:ran *");
 
 #Now let's start capturing log files#
 
-system("sudo ./tmofileXec");
+system("sudo ./tmologIn.pl");
 
 sleep(rand(7));
 
